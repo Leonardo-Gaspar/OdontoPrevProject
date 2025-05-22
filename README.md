@@ -38,8 +38,11 @@ A aplicação foi desenvolvida em **Python**, utilizando o framework **Streamlit
 `cd OdontoPrevProject`
 
 2. Crie um ambiente virtual (opcional, mas recomendado)
+
 python -m venv venv
-source venv/bin/activate  # Linux/macOS
+
+source venv/bin/activate # Linux/macOS
+
 venv\Scripts\activate     # Windows
 
 4. Instale as dependências
@@ -54,4 +57,5 @@ Certifique-se de que o MongoDB está em execução localmente ou configure uma c
 7. Acesse no navegador
 O terminal exibirá um link como este:
 `Local URL: http://localhost:8501`
+
 Abra o navegador e acesse esse endereço para utilizar a interface web
