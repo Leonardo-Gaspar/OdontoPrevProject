@@ -21,12 +21,12 @@ Para instalar, execute:
 
 `pip install -r requirements.txt`
 
-##Como Executar
+## Como Executar
 Certifique-se de que o MongoDB está em execução e configurado corretamente.
 
 Instale as dependências com o comando acima.
 
-#Execute a aplicação Streamlit:
+# Execute a aplicação Streamlit:
 
 `streamlit run app.py`
 
