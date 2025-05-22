@@ -34,13 +34,8 @@ Acesse o endereço exibido no terminal para utilizar a interface web.
 
 Tecnologias Utilizadas
 Python
-
 Streamlit
-
 MongoDB
-
 PyMongo
-
 nginx
-Copiar
-Editar
+
