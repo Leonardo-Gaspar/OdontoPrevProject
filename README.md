@@ -19,19 +19,17 @@ A aplicação foi desenvolvida em **Python** utilizando o framework **Streamlit*
 As bibliotecas necessárias estão listadas no arquivo `requirements.txt`.  
 Para instalar, execute:
 
-```bash
-pip install -r requirements.txt
-Como Executar
+`pip install -r requirements.txt`
+
+##Como Executar
 Certifique-se de que o MongoDB está em execução e configurado corretamente.
 
 Instale as dependências com o comando acima.
 
-Execute a aplicação Streamlit:
+#Execute a aplicação Streamlit:
 
-bash
-Copiar
-Editar
-streamlit run app.py
+`streamlit run app.py`
+
 Acesse o endereço exibido no terminal para utilizar a interface web.
 
 Tecnologias Utilizadas
