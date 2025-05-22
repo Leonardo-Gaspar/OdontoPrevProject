@@ -34,6 +34,7 @@ A aplicação foi desenvolvida em **Python**, utilizando o framework **Streamlit
 ### 1. Clone o repositório
 
 `git clone https://github.com/Leonardo-Gaspar/OdontoPrevProject.git`
+
 `cd OdontoPrevProject`
 
 2. Crie um ambiente virtual (opcional, mas recomendado)
